@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmqpExample", "AmqpExample.csproj", "{E0952EA7-0E4F-4360-AA52-3F0B655D1815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0952EA7-0E4F-4360-AA52-3F0B655D1815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0952EA7-0E4F-4360-AA52-3F0B655D1815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0952EA7-0E4F-4360-AA52-3F0B655D1815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0952EA7-0E4F-4360-AA52-3F0B655D1815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E343CA7-2819-4224-9AC1-2CC9790E5B1E}
+	EndGlobalSection
+EndGlobal
